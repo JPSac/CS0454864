@@ -1,0 +1,5 @@
+<http-server hostname="agsbx2sf9.accounts.cloud.sap" port="443"
+    ssl="true" uid="agsbx2sf9.accounts.cloud.sap"
+    urlrewriting-argument-name="" urlrewriting-enabled="false"
+    urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

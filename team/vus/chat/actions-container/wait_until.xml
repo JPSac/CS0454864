@@ -1,0 +1,6 @@
+<wait-until-action name="wait_until"
+    uid="0b18f1b3-1775-4ba1-85bb-c76fe83495d8" wait-timeout="60000">
+    <conditions match-type="1">
+        <condition operand1="${heartbeat}" operand2="Heartbeat" operator="CONTAINS"/>
+    </conditions>
+</wait-until-action>

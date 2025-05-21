@@ -1,0 +1,380 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/jpetstore/shop/index.shtml" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/chat_recording/%resources%/recorded-artifacts/b86932f9-281c-4e14-bcf4-12037cd2a26d.zip"
+    slaProfileEnabled="false" thinkTime="5247"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="b86932f9-281c-4e14-bcf4-12037cd2a26d">
+    <embedded-action>4a3a6502-d958-4148-a3db-63339903a09a</embedded-action>
+    <embedded-action>09550396-4017-4638-97a8-1a4a54aece0c</embedded-action>
+    <embedded-action>09e53841-ca2d-4307-a3a4-cf16a27f87be</embedded-action>
+    <embedded-action>9ccc4a39-cbc9-4e7a-9d21-fad55854083a</embedded-action>
+    <embedded-action>de2c0c13-d241-4bd6-812a-d219007a0ad9</embedded-action>
+    <embedded-action>af5d7040-e045-47ca-affc-4ae1e39428d3</embedded-action>
+    <embedded-action>fcb4caa3-67ad-4ef3-b98f-8c6c6253f37b</embedded-action>
+    <embedded-action>56dccd02-c1ce-4568-81ff-493045a13913</embedded-action>
+    <embedded-action>81a1cc8b-f926-4547-95ca-b119ffd7042a</embedded-action>
+    <embedded-action>6c7b7008-21d7-4100-9406-4bf577e61476</embedded-action>
+    <embedded-action>8892b4c6-160e-41bc-96d3-22ebc871f911</embedded-action>
+    <embedded-action>8cc68155-d5fe-4c89-9c4b-9d880fe872bc</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_b86932f9-281c-4e14-bcf4-12037cd2a26d.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=ISO-8859-1"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/shop/index.shtml"
+    path="/jpetstore/shop/index.shtml" postType="6"
+    recordedArtifactZipFileName="team/vus/chat_recording/%resources%/recorded-artifacts/b86932f9-281c-4e14-bcf4-12037cd2a26d.zip"
+    recordedResponseCode="200" responseSize="6350"
+    serverUid="10.50.120.124" slaProfileEnabled="false"
+    uid="4a3a6502-d958-4148-a3db-63339903a09a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_4a3a6502-d958-4148-a3db-63339903a09a.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4a3a6502-d958-4148-a3db-63339903a09a.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-GB,en;q=0.9"/>
+    <header name="Host" value="10.50.120.124:8080"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://10.50.120.124:8080/jpetstore/"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1&#xd;
+Set-Cookie: JSESSIONID=EC946B3D447149242C115DAEC61B5BA5; Path=/jpetstore&#xd;
+Content-Type: text/html;charset=ISO-8859-1&#xd;
+Content-Length: 6350&#xd;
+Date: Fri, 04 Apr 2025 07:13:01 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/sm_fish.gif"
+    path="/jpetstore/images/sm_fish.gif" postType="6"
+    recordedArtifactZipFileName="team/vus/chat_recording/%resources%/recorded-artifacts/b86932f9-281c-4e14-bcf4-12037cd2a26d.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="10.50.120.124" slaProfileEnabled="false"
+    uid="09550396-4017-4638-97a8-1a4a54aece0c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_09550396-4017-4638-97a8-1a4a54aece0c.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_09550396-4017-4638-97a8-1a4a54aece0c.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-GB,en;q=0.9"/>
+    <header name="Cookie" value="JSESSIONID=EC946B3D447149242C115DAEC61B5BA5"/>
+    <header name="Host" value="10.50.120.124:8080"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://10.50.120.124:8080/jpetstore/shop/index.shtml"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1&#xd;
+ETag: W/"271-1742187414379"&#xd;
+Last-Modified: Mon, 17 Mar 2025 04:56:54 GMT&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 271&#xd;
+Date: Fri, 04 Apr 2025 07:13:01 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/sm_dogs.gif"
+    path="/jpetstore/images/sm_dogs.gif" postType="6"
+    recordedArtifactZipFileName="team/vus/chat_recording/%resources%/recorded-artifacts/b86932f9-281c-4e14-bcf4-12037cd2a26d.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="10.50.120.124" slaProfileEnabled="false"
+    uid="09e53841-ca2d-4307-a3a4-cf16a27f87be" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_09e53841-ca2d-4307-a3a4-cf16a27f87be.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_09e53841-ca2d-4307-a3a4-cf16a27f87be.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-GB,en;q=0.9"/>
+    <header name="Cookie" value="JSESSIONID=EC946B3D447149242C115DAEC61B5BA5"/>
+    <header name="Host" value="10.50.120.124:8080"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://10.50.120.124:8080/jpetstore/shop/index.shtml"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1&#xd;
+ETag: W/"306-1742187414360"&#xd;
+Last-Modified: Mon, 17 Mar 2025 04:56:54 GMT&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 306&#xd;
+Date: Fri, 04 Apr 2025 07:13:01 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/sm_reptiles.gif"
+    path="/jpetstore/images/sm_reptiles.gif" postType="6"
+    recordedArtifactZipFileName="team/vus/chat_recording/%resources%/recorded-artifacts/b86932f9-281c-4e14-bcf4-12037cd2a26d.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="10.50.120.124" slaProfileEnabled="false"
+    uid="9ccc4a39-cbc9-4e7a-9d21-fad55854083a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_9ccc4a39-cbc9-4e7a-9d21-fad55854083a.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9ccc4a39-cbc9-4e7a-9d21-fad55854083a.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-GB,en;q=0.9"/>
+    <header name="Cookie" value="JSESSIONID=EC946B3D447149242C115DAEC61B5BA5"/>
+    <header name="Host" value="10.50.120.124:8080"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://10.50.120.124:8080/jpetstore/shop/index.shtml"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1&#xd;
+ETag: W/"398-1742187414394"&#xd;
+Last-Modified: Mon, 17 Mar 2025 04:56:54 GMT&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 398&#xd;
+Date: Fri, 04 Apr 2025 07:13:01 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/sm_cats.gif"
+    path="/jpetstore/images/sm_cats.gif" postType="6"
+    recordedArtifactZipFileName="team/vus/chat_recording/%resources%/recorded-artifacts/b86932f9-281c-4e14-bcf4-12037cd2a26d.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="10.50.120.124" slaProfileEnabled="false"
+    uid="de2c0c13-d241-4bd6-812a-d219007a0ad9" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_de2c0c13-d241-4bd6-812a-d219007a0ad9.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_de2c0c13-d241-4bd6-812a-d219007a0ad9.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-GB,en;q=0.9"/>
+    <header name="Cookie" value="JSESSIONID=EC946B3D447149242C115DAEC61B5BA5"/>
+    <header name="Host" value="10.50.120.124:8080"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://10.50.120.124:8080/jpetstore/shop/index.shtml"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1&#xd;
+ETag: W/"289-1742187414343"&#xd;
+Last-Modified: Mon, 17 Mar 2025 04:56:54 GMT&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 289&#xd;
+Date: Fri, 04 Apr 2025 07:13:01 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/sm_birds.gif"
+    path="/jpetstore/images/sm_birds.gif" postType="6"
+    recordedArtifactZipFileName="team/vus/chat_recording/%resources%/recorded-artifacts/b86932f9-281c-4e14-bcf4-12037cd2a26d.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="10.50.120.124" slaProfileEnabled="false"
+    uid="af5d7040-e045-47ca-affc-4ae1e39428d3" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_af5d7040-e045-47ca-affc-4ae1e39428d3.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_af5d7040-e045-47ca-affc-4ae1e39428d3.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-GB,en;q=0.9"/>
+    <header name="Cookie" value="JSESSIONID=EC946B3D447149242C115DAEC61B5BA5"/>
+    <header name="Host" value="10.50.120.124:8080"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://10.50.120.124:8080/jpetstore/shop/index.shtml"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1&#xd;
+ETag: W/"251-1742187414326"&#xd;
+Last-Modified: Mon, 17 Mar 2025 04:56:54 GMT&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 251&#xd;
+Date: Fri, 04 Apr 2025 07:13:01 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/fish_icon.gif"
+    path="/jpetstore/images/fish_icon.gif" postType="6"
+    recordedArtifactZipFileName="team/vus/chat_recording/%resources%/recorded-artifacts/b86932f9-281c-4e14-bcf4-12037cd2a26d.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="10.50.120.124" slaProfileEnabled="false"
+    uid="fcb4caa3-67ad-4ef3-b98f-8c6c6253f37b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_fcb4caa3-67ad-4ef3-b98f-8c6c6253f37b.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_fcb4caa3-67ad-4ef3-b98f-8c6c6253f37b.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-GB,en;q=0.9"/>
+    <header name="Cookie" value="JSESSIONID=EC946B3D447149242C115DAEC61B5BA5"/>
+    <header name="Host" value="10.50.120.124:8080"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://10.50.120.124:8080/jpetstore/shop/index.shtml"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1&#xd;
+ETag: W/"439-1742187413891"&#xd;
+Last-Modified: Mon, 17 Mar 2025 04:56:53 GMT&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 439&#xd;
+Date: Fri, 04 Apr 2025 07:13:01 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/dogs_icon.gif"
+    path="/jpetstore/images/dogs_icon.gif" postType="6"
+    recordedArtifactZipFileName="team/vus/chat_recording/%resources%/recorded-artifacts/b86932f9-281c-4e14-bcf4-12037cd2a26d.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="10.50.120.124" slaProfileEnabled="false"
+    uid="56dccd02-c1ce-4568-81ff-493045a13913" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_56dccd02-c1ce-4568-81ff-493045a13913.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_56dccd02-c1ce-4568-81ff-493045a13913.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-GB,en;q=0.9"/>
+    <header name="Cookie" value="JSESSIONID=EC946B3D447149242C115DAEC61B5BA5"/>
+    <header name="Host" value="10.50.120.124:8080"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://10.50.120.124:8080/jpetstore/shop/index.shtml"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1&#xd;
+ETag: W/"468-1742187413858"&#xd;
+Last-Modified: Mon, 17 Mar 2025 04:56:53 GMT&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 468&#xd;
+Date: Fri, 04 Apr 2025 07:13:01 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/cats_icon.gif"
+    path="/jpetstore/images/cats_icon.gif" postType="6"
+    recordedArtifactZipFileName="team/vus/chat_recording/%resources%/recorded-artifacts/b86932f9-281c-4e14-bcf4-12037cd2a26d.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="10.50.120.124" slaProfileEnabled="false"
+    uid="81a1cc8b-f926-4547-95ca-b119ffd7042a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_81a1cc8b-f926-4547-95ca-b119ffd7042a.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_81a1cc8b-f926-4547-95ca-b119ffd7042a.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-GB,en;q=0.9"/>
+    <header name="Cookie" value="JSESSIONID=EC946B3D447149242C115DAEC61B5BA5"/>
+    <header name="Host" value="10.50.120.124:8080"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://10.50.120.124:8080/jpetstore/shop/index.shtml"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1&#xd;
+ETag: W/"408-1742187413615"&#xd;
+Last-Modified: Mon, 17 Mar 2025 04:56:53 GMT&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 408&#xd;
+Date: Fri, 04 Apr 2025 07:13:01 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/reptiles_icon.gif"
+    path="/jpetstore/images/reptiles_icon.gif" postType="6"
+    recordedArtifactZipFileName="team/vus/chat_recording/%resources%/recorded-artifacts/b86932f9-281c-4e14-bcf4-12037cd2a26d.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="10.50.120.124" slaProfileEnabled="false"
+    uid="6c7b7008-21d7-4100-9406-4bf577e61476" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6c7b7008-21d7-4100-9406-4bf577e61476.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6c7b7008-21d7-4100-9406-4bf577e61476.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-GB,en;q=0.9"/>
+    <header name="Cookie" value="JSESSIONID=EC946B3D447149242C115DAEC61B5BA5"/>
+    <header name="Host" value="10.50.120.124:8080"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://10.50.120.124:8080/jpetstore/shop/index.shtml"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1&#xd;
+ETag: W/"669-1742187414208"&#xd;
+Last-Modified: Mon, 17 Mar 2025 04:56:54 GMT&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 669&#xd;
+Date: Fri, 04 Apr 2025 07:13:01 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/birds_icon.gif"
+    path="/jpetstore/images/birds_icon.gif" postType="6"
+    recordedArtifactZipFileName="team/vus/chat_recording/%resources%/recorded-artifacts/b86932f9-281c-4e14-bcf4-12037cd2a26d.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="10.50.120.124" slaProfileEnabled="false"
+    uid="8892b4c6-160e-41bc-96d3-22ebc871f911" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_8892b4c6-160e-41bc-96d3-22ebc871f911.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8892b4c6-160e-41bc-96d3-22ebc871f911.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-GB,en;q=0.9"/>
+    <header name="Cookie" value="JSESSIONID=EC946B3D447149242C115DAEC61B5BA5"/>
+    <header name="Host" value="10.50.120.124:8080"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://10.50.120.124:8080/jpetstore/shop/index.shtml"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1&#xd;
+ETag: W/"471-1742187413237"&#xd;
+Last-Modified: Mon, 17 Mar 2025 04:56:53 GMT&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 471&#xd;
+Date: Fri, 04 Apr 2025 07:13:01 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/splash.gif"
+    path="/jpetstore/images/splash.gif" postType="6"
+    recordedArtifactZipFileName="team/vus/chat_recording/%resources%/recorded-artifacts/b86932f9-281c-4e14-bcf4-12037cd2a26d.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="10.50.120.124" slaProfileEnabled="false"
+    uid="8cc68155-d5fe-4c89-9c4b-9d880fe872bc" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_8cc68155-d5fe-4c89-9c4b-9d880fe872bc.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8cc68155-d5fe-4c89-9c4b-9d880fe872bc.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-GB,en;q=0.9"/>
+    <header name="Cookie" value="JSESSIONID=EC946B3D447149242C115DAEC61B5BA5"/>
+    <header name="Host" value="10.50.120.124:8080"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://10.50.120.124:8080/jpetstore/shop/index.shtml"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1&#xd;
+ETag: W/"36097-1742187414447"&#xd;
+Last-Modified: Mon, 17 Mar 2025 04:56:54 GMT&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 36097&#xd;
+Date: Fri, 04 Apr 2025 07:13:01 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

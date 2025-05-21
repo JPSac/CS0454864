@@ -1,0 +1,13 @@
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="" path="/" postType="1"
+    serverUid="www.tricentis.com" slaProfileEnabled="false"
+    uid="49f09e78-d996-407a-b0b3-a51f262627d5" useKeepAlive="true">
+    <responsePageFileDescription>team/vus/chat/%resources%/recorded-responses/res_49f09e78-d996-407a-b0b3-a51f262627d5</responsePageFileDescription>
+    <requestContentFileDescription>team/vus/chat/%resources%/recorded-requests/req_49f09e78-d996-407a-b0b3-a51f262627d5.txt</requestContentFileDescription>
+    <header name="Connection" value="keep-alive"/>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

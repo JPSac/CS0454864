@@ -1,0 +1,6 @@
+<lg-host browserBasedSupport="true" citrixSupport="false"
+    hostname="vwcl-prd-000008.tricentis.com:7100" loadWeight="1"
+    sapSupport="false" standalone="false" supportWANEmulation="true"
+    uid="103a4e2b-0dda-4860-bf7d-d16e98ee7589" version="9.0.0;build=20220826-66">
+    <!--****** LG NETWORK INTERFACES ******-->
+</lg-host>
