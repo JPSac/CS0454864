@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=Wait_until_example
+project.version=8.10
+project.original.version=4.2
+product.name=NeoLoad
+product.original.name=
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=
+project.is-open-test-settings-after-upload=true
+project.id=b8d78c50-2722-4e90-b103-5de81f1463c1
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/JPSac/CS0454864.git

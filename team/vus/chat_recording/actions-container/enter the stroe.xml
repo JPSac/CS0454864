@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="enter the stroe" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="c78caa30-7141-49ba-adbc-e56b05f4f9d9" weightsEnabled="false">
+    <weighted-embedded-action uid="b86932f9-281c-4e14-bcf4-12037cd2a26d"/>
+</basic-logical-action-container>

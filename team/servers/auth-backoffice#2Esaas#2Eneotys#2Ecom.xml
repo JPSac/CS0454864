@@ -1,0 +1,12 @@
+<http-server hostname="auth-backoffice.saas.neotys.com" port="443"
+    ssl="true" uid="auth-backoffice.saas.neotys.com"
+    urlrewriting-argument-name="" urlrewriting-enabled="false"
+    urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";">
+    <authorization
+        password="hKFPHi7iuNpcrqpyTCx0XTvZobBvpB5rebzAhYDScX+JY3XGZ4ts/7tM1i+EwttK$3"
+        realm="vertx-web" scheme="Basic" userName="Giacomo"/>
+    <authorization
+        password="eZAF62aG0pChIiVcwqsyFFS1u2DhlkBWCpOwvxcahUQQ0NAU6HVzshm1B+uGthca$3"
+        realm="" scheme="Basic" userName="Giacomo"/>
+</http-server>

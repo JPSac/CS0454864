@@ -1,0 +1,37 @@
+<websocket-channel-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="websocket_channel" path="/" postType="1"
+    pushType="WEBSOCKET" serverUid="2lvj2-8080.csb.app"
+    slaProfileEnabled="false" uid="39722ee5-7c08-4d88-b508-ba757b73ad48" useKeepAlive="false">
+    <response-matching extractionMethod="REGEXP_ONLY" regexp="" template="$1$"/>
+    <responsePageFileDescription>team/vus/chat/%resources%/recorded-responses/res_39722ee5-7c08-4d88-b508-ba757b73ad48</responsePageFileDescription>
+    <variable-extractor assertionOnNoMatch="false"
+        defaultValue="&lt;NOT FOUND>" displayMode="0"
+        endsWithSimple="&quot;" extractFromVarNameAdv=""
+        extractFromVarNameSimple="" extractType="0" extractTypeAdv="0"
+        extractTypeSimple="0" matchNumber="1" matchNumberAdv="1"
+        matchNumberSimple="1" name="heartbeat"
+        refererUid="39722ee5-7c08-4d88-b508-ba757b73ad48"
+        regExp="&quot;message&quot;:&quot;(.*?)&quot;" regExpAdv=""
+        setDefaultValue="true"
+        startsWithSimple="&quot;message&quot;:&quot;" template="$1$"
+        templateAdv="$1$" uid="b3defbd8-5bc2-4cb4-aefe-54e7594968bc" xpath="">
+        <variable-extractor-group extract="true" occurs="1" pattern="" type="4"/>
+    </variable-extractor>
+    <header name="Upgrade" value="WebSocket"/>
+    <header name="Sec-WebSocket-Version" value="13"/>
+    <header name="Sec-WebSocket-Key" value="cIYuZ1EyIBJvhPL1t7N5Tw=="/>
+    <header name="Origin" value=""/>
+    <header name="Host" value=""/>
+    <header name="Connection" value=""/>
+    <header name="Pragma" value="no-cache"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <push-handler filecount="4"
+        filename="team/vus/chat/%resources%/recorded-responses/websocket_269f6a1a-4c20-43f4-98fe-95ca895a9e2c.dat" pushType="WEBSOCKET">
+        <result-handler responseSource="MESSAGE" type="REGEXP"/>
+    </push-handler>
+</websocket-channel-action>
