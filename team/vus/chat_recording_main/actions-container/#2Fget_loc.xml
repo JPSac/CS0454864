@@ -1,0 +1,30 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/get_loc"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/chat_recording_main/%resources%/recorded-artifacts/687fc3d3-0842-49ef-9b58-e20106080a1d.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="687fc3d3-0842-49ef-9b58-e20106080a1d">
+    <embedded-action>580982fd-b376-4197-98f1-36009ab07550</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_906e0fbb-2b11-41ac-bfa7-02020591438f.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/get_loc" path="/get_loc" postType="4"
+    recordedArtifactZipFileName="team/vus/chat_recording_main/%resources%/recorded-artifacts/687fc3d3-0842-49ef-9b58-e20106080a1d.zip"
+    recordedResponseCode="200" responseSize="264"
+    serverUid="gateway.zscalertwo.net" slaProfileEnabled="false"
+    uid="580982fd-b376-4197-98f1-36009ab07550" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_49399124-7aa3-41a5-8aa5-f5d1a66908e4</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_49399124-7aa3-41a5-8aa5-f5d1a66908e4.txt</requestContentFileDescription>
+    <header name="Content-Type" value="application/json"/>
+    <header name="Host" value="gateway.zscalertwo.net"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-type: application/json&#xd;
+Content-length: 264</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
